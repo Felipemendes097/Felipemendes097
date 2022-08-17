@@ -1,4 +1,4 @@
-### Olá me chamo Felipe, sou iniciante no mundo da programação,estou aprendendo HTML, CSS e Javascript! seja muito bem vindo(a) ao meu perfil!😎✌
+### Olá me chamo Felipe, sou iniciante no mundo da programação,estou estudando HTML, CSS e Javascript! seja muito bem vindo(a) ao meu perfil!😎✌
 <div>
   <a href="https://github.com/Felipemendes097">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipemendes097&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
