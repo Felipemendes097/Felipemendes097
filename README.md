@@ -1,7 +1,8 @@
 ### Olá me chamo Felipe, sou iniciante no mundo da programação,estou estudando HTML, CSS e Javascript! seja muito bem vindo(a) ao meu perfil!😎✌
+
 <div>
   <a href="https://github.com/Felipemendes097">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipemendes097&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipemendes097&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipemendes097&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
@@ -15,10 +16,9 @@
   ### E aqui vai meu email e linkedin!
  
 <div> 
-  <a href = "mailto:felipetec97@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:felipetec97@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/felipe-mendes097" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Felipetec97/Felipetec97/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Snake animation](https://github.com/Felipemendes097/Felipemendes097/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
